@@ -25,7 +25,7 @@ public class VariableExample2 {
 		// 변수값 대입 : 변수에 값을 집어넣는 것.
 		
 		// 카멜 표기법 : 연결되는 두 단어 중 후속단어의 첫 문자를 대문자로 표기하는 방식.
-		
+		                 //
 		boolean booleanData;
 		
 		//메모리에 논리 값(t/f)을 저장할 공간을 1byte 할당하고 이를 변수 booleanData에 저장함.
